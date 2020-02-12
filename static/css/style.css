@@ -32,25 +32,6 @@ body {
   line-height: 1em;
 }
 
-#map,
-.charts {
-  height: 45%;
-  width: 45%;
-  position: fixed;
-  overflow: hidden; 
-  top: 42%;
-  left:2%;
-}
-
-#map2,
-.charts {
-  height: 45%;
-  width: 45%;
-  position: fixed;
-  overflow: hidden; 
-  top: 42%;
-  right:2%;
-}
 .bar {
   fill: white;
 }
@@ -77,21 +58,7 @@ body {
   background-color: orange;
 }
 
-.img {
-  position: fixed; 
-  left:25%; 
-  right:25%;
-  top: 30%;
-  display: inline-block;
-  overflow: hidden;
-}
 
-.dropdown-menu {
-  position: fixed;
-  overflow: hidden; 
-  top: 25%;
-  left:0%;
-}
 .dropheader1 {
   color: navy;
 }
